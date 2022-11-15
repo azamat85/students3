@@ -1,0 +1,186 @@
+body{
+    background-color: rgb(204, 204, 204);
+    /* overflow-x:hidden; */
+}
+h1{
+    border: black solid 1px;
+    text-align: center;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 25px;
+    display: inline-block;
+    min-width: 870px;
+}
+a{
+    position: relative;
+    top: 7px;
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 5px;
+}
+.container{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    position: relative;
+    text-align: center;
+}
+.col-sm-3 {
+    text-align: center;
+}
+.intro-section{
+    position: relative;
+}
+.col-sm-9{
+    position: relative;
+    top: 7px;
+    right: 90px;
+}
+input{
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.blok1{
+    text-align: right;
+    margin-right: 868px;
+}
+button{
+    margin-left:147px;
+    background-color: rgb(157, 157, 157);
+}
+.button{
+    margin-right:60px;
+    background-color: rgb(157, 157, 157);
+}
+.a{
+    text-align: center;
+}
+.button1,.button2,.button3,.button4{
+    margin-bottom: 10px;
+    height: 28px;
+    width: 375px;
+    margin-right: -100px;
+    display: inline-block;
+    margin-left:147px;
+    background-color: rgb(157, 157, 157);
+}
+form{
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+}
+.row{
+    position: relative;
+}
+.col-sm-10{
+    position: relative;
+    right: 105px;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 25px;
+}
+table{
+    position: relative;
+    right: initial;
+    /* margin: 0px 5%; */
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 14px;
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+td{
+    width:300px;
+    height: 35px;
+    text-align: center;
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: rgb(182, 192, 202);
+}
+th {
+    font-size: 14px;
+    text-align: center;
+    width: 300px;
+    height: 35px;
+    background-color: rgb(128, 128, 128);
+    border: 2px solid black;
+}
+.checkbox{
+    width: 15px;
+    height: 15px;
+}
+p{
+    font-weight: 500;
+}
+#tabl2{
+    margin-top: 25px;
+}
+.text1{
+    display: inline-block;
+}
+.container1{
+    display: inline-block;
+}
+.z122, .z123{
+    height: 75px;
+    width: 150px;
+
+}
+.button5,.button6,.button7{
+    margin-bottom: 10px;
+    height: 28px;
+    width: 375px;
+}
+.blok7{
+    margin-left: -125px;
+}
+#butt{
+    height: 30px;
+    width: 110px;
+    margin-left: 78px;
+}
+.tabl1, .tabl2{
+    text-align: left;
+    height: 75px;
+    width: 350px;
+}
+#butt1{
+    height: 30px;
+    width: 110px;
+    margin-left: 185px;
+}
+h6{
+    color: red;
+
+}
+.text4{
+    display: inline-block;
+    position: relative;
+    bottom: 100px;
+}
+/*a{*/
+
+/*    color: black;*/
+
+/*}*/
+.y{
+    font-size: 16px;
+    display: inline-block;
+}
+ul {
+    margin-left: 18px;
+    background-color:azure;
+    display: inline-block;
+    width: 200px;     /* ширина, которая вам нужна */
+    height: 100px;    /* высота, которая вам нужна */
+    overflow-y: scroll;
+
+}
+p{
+    display: inline-block;
+}
+.inputText{
+    display: inline-block;
+}

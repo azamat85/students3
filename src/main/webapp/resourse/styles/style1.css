@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(204, 204, 204);
+}
+h1{
+    border: black solid 1px;
+    text-align: center;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 25px;
+    display: inline-block;
+    min-width: 870px;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+    margin-right: 0px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+.Logout{
+    margin-left: 7px;
+}
+.container{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.button11, .button12,.button13,.button14{
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    height: 28px;
+    width: 375px;
+    border: 2px solid black;;
+    background-color: rgb(157, 157, 157);
+}
+form{
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 25px;
+    margin-left: 15px;
+}
+table{
+    margin-left: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 14px;
+}
+td{
+    text-align: center;
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: rgb(182, 192, 202);
+}
+th {
+    font-size: 14px;
+    text-align: center;
+    background-color: rgb(128, 128, 128);
+    border: 2px solid black;
+}
+.th1{
+    width: 60px;
+    height: 35px;
+}
+.th2,.th3{
+    width: 235px;
+    height: 35px;
+}
+.th5{
+    width: 210px;
+    height: 35px;
+}
+.th4{
+    width: 150px;
+    height: 35px;
+}
+.checkbox{
+    width: 15px;
+    height: 15px;
+}
+p{
+    display: inline-block;
+}
+.inputText{
+    display: inline-block;
+}
